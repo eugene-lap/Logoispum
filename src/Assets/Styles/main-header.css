@@ -1,0 +1,48 @@
+.main-header {
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.main-header-navigation {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-header-navigation__logo-link {
+    margin-top: 10.98px;
+}
+
+.main-header-navigation-transitions {
+    width: 327px;
+    margin-top: 14px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-header-navigation-transitions__link {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    color: #696871;
+}
+.main-header-navigation-transitions__link:hover{
+    color: #19191B;
+    text-decoration: underline #5454D4;
+    
+}
+
+.main-header-navigation__main-button {
+    background: #FF7143;
+    color: #ffff;
+    border-radius: 10px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 22px;
+    text-align: center;
+    width: 211px;
+    height: 60px;
+    border: none;
+}

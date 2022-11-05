@@ -1,0 +1,8 @@
+.logotips{
+  padding: 100.18px;
+}
+.conteiner-logotips{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

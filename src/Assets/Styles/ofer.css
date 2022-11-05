@@ -1,0 +1,33 @@
+.ofer{
+    padding-top: 138px;
+}
+.ofer-conteiner{
+    display: flex;
+    justify-content: space-between;
+}
+.section-ofer{
+    width: 307px;
+}
+.section-ofer__imege{
+    margin: 0 auto;
+}
+.section-ofer__title{
+    text-align: center;
+    margin-top: 7px;
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: #19191B;
+}
+.section-ofer__subtitle{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #696871;
+}
